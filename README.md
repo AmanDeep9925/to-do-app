@@ -4,8 +4,12 @@ Generalizing concepts of React library and understanding component structue with
 
 ### What I learnt
 
-- React
-- Component Designing
-- Matrial UI
-- React Hooks
-- Firebase as service for ( Hosting )
+-   React
+-   Component Designing
+-   Material UI
+-   React Hooks
+-   Firebase as service for ( Hosting )
+
+[Check it here 🚀](https://todo-app-3ab3d.web.app/)
+
+Happy Hacking 😎.
